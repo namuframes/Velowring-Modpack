@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Velowring modpack",
+  "name": "Velowring",
   "version": "",
   "author": "",
   "files": [
@@ -417,6 +417,11 @@
     {
       "projectID": 538214,
       "fileID": 5118729,
+      "required": true
+    },
+    {
+      "projectID": 274036,
+      "fileID": 6134976,
       "required": true
     },
     {
